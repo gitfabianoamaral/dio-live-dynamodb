@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Tiao Carreiro e Pardinho"},
+                  "SongTitle": {"S": "Boi Soberano"},
+                  "AlbumTitle": {"S": "Boi Soberano"},
+                  "SongYear": {"S": "1966"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Tiao Carreiro e Pardinho"},
+                  "SongTitle": {"S": "Pagode em Brasilia"},
+                  "AlbumTitle": {"S": "Rei do Gado"},
+                  "SongYear": {"S": "1961"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Tiao Carreiro e Pardinho"},
+                  "SongTitle": {"S": "Rei do Gado"},
+                  "AlbumTitle": {"S": "Rei do Gado"},
+                  "SongYear": {"S": "1961"}
+                }
+            }
+        }
+      ]
+}
